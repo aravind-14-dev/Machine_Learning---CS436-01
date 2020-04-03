@@ -1,0 +1,11 @@
+The first dataset : 
+ 
+ accuracy: 1.0000
+accuracy: 0.9567
+accuracy: 0.9650
+
+The second datset: 
+ 
+accuracy: 0.5100
+accuracy: 0.5317
+accuracy: 0.5167
